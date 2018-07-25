@@ -24,7 +24,7 @@ project/plugins/project/
 .worksheet
 
 # IntelliJ Specific
-
+.idea/
 *.iml
 .idea_modules
 projectFilesBackup
